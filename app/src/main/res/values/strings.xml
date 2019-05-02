@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">puasa</string>
+
+    <string-array name="puasa">
+        <item>senin kamis</item>
+        <item>daud</item>
+        <item>arofah</item>
+        <item>asy syuro\'</item>
+        <item>puasa di bulan sya\'ban</item>
+        <item>puasa 6 hari di bulan syawal</item>
+        <item>ayamul bidn</item>
+
+    </string-array>
+
+</resources>
