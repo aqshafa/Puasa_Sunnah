@@ -20,5 +20,7 @@ public class detail extends AppCompatActivity {
 
         webView.getSettings().setJavaScriptEnabled(true);
         webView.loadUrl(link);
+        
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
     }
 }
